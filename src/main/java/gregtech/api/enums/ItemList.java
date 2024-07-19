@@ -1450,6 +1450,7 @@ public enum ItemList implements IItemContainer {
     Machine_EV_FluidHeater,
     Machine_IV_FluidHeater,
 
+    Machine_Multi_FluidSolidifier,
     Machine_Multi_LargeChemicalReactor,
 
     Machine_Multi_IndustrialElectromagneticSeparator,
